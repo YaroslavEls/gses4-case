@@ -21,7 +21,7 @@ docker compose up --build
 ```
 4. Check the application is working
 ```
-curl http://localhost:3000/rates
+curl http://localhost:3000/rate
 ```
 
 ## Dependencies
